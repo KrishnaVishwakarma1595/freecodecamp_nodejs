@@ -1,4 +1,5 @@
 {
 	"author":"Krishna Vishwakarma",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "web development", "nodejs" ]
 }
