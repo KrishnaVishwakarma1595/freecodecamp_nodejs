@@ -3,5 +3,9 @@
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "web development", "nodejs" ],
 	"license": "MIT",
-	"version": "0.0.1"
+	"version": "0.0.1",
+	"dependencies": {
+		"package-name": "version",
+		"moment": "2.14.0"
+	}
 }
