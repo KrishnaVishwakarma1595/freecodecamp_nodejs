@@ -2,5 +2,6 @@
 	"author":"Krishna Vishwakarma",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "web development", "nodejs" ],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "0.0.1"
 }
