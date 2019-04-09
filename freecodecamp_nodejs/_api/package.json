@@ -6,6 +6,6 @@
 	"version": "0.0.1",
 	"dependencies": {
 		"package-name": "version",
-		"moment": "2.14.0"
+		"moment": "2.10.2"
 	}
 }
